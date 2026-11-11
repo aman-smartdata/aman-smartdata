@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Developer · Node.js · React.js · Vue.js · AWS</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aman-kumar-singh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/amanaryan2704/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:amanku7977@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Punjab,%20India-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Relocation-blueviolet?style=for-the-badge" alt="Open to work"/>
@@ -118,7 +118,7 @@
 I'm open to **full-time remote work** or **relocation**. Feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/aman-kumar-singh"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amanaryan2704/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:amanku7977@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
