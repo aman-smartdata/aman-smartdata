@@ -55,7 +55,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
-<sub>AWS: S3 · EC2 · SES · KMS · Secrets Manager · Bedrock</sub>
+
+**Aws Services**
+<p>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square" alt="AWS S3"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square" alt="AWS EC2"/>
+  <img src="https://img.shields.io/badge/AWS%20SES-DD344C?style=flat-square" alt="AWS SES"/>
+  <img src="https://img.shields.io/badge/AWS%20KMS-7AA116?style=flat-square" alt="AWS KMS"/>
+  <img src="https://img.shields.io/badge/Secrets%20Manager-C7131F?style=flat-square" alt="AWS Secrets Manager"/>
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-01A88D?style=flat-square" alt="Amazon Bedrock"/>
+</p>
 
 **AI & Integrations**
 <p>
