@@ -64,6 +64,7 @@
   <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Places-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=twilio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=twilio&logoColor=white"/>
 </p>
 
 **Analytics & Tools**
@@ -72,7 +73,7 @@
   <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kpler-00AEEF?style=flat-square&logoColor=white"/>
 </p>
 
 ---
